@@ -1,4 +1,13 @@
-### Hi there 👋
+### My Projects
+
+#### Minigames  
+
+repository | language | labels
+--- | --- | ---
+[PySnake](https://github.com/pabloufrn/PySnake) | Python | Pygame; Socket;
+[Battleships](https://github.com/pabloufrn/Battleships) | C++ | SFML
+[GameOfLife](https://github.com/pabloufrn/GameOfLife) | C++ | SFML
+[Snaze](https://github.com/pabloufrn/Snaze) | C++ | SFML
 
 <!--
 **pabloufrn/pabloufrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
