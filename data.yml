@@ -1,0 +1,8 @@
+---
+favorite_projects:
+  pabloufrn:
+    - name: Battleships
+      skills: ['CPP', 'SFML']
+    - name: simulador_de_cache 
+      skills: ['CPP']
+...
